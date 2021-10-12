@@ -2,3 +2,4 @@
 Computer Laboratory 2564 - Lab 01
 
 Myname is Pargorn Ruasijan
+Edited By Github Text Editor.
